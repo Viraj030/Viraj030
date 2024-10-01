@@ -1,4 +1,4 @@
-<p align="center">
+<p align="center" >
   <img src="https://thehubbackend.com/media/Front-end_Developer.webp" alt="Frontend Developer | Specialist in HTML, CSS, JavaScript, React, Bootstrap" width="800" />
 </p>
 
@@ -8,7 +8,6 @@
   align="right"
   alt="Viraj Asolkar"
   width="400"
-  style="margin-left:10px ;"
   src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif"
 />
 
